@@ -3,5 +3,6 @@ class h1{
     {
         System.out.println("hi");
         System.out.println("welcome");
+        System.out.println("second");
     }
 }
